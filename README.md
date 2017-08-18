@@ -1,4 +1,4 @@
-#Arm-money token solidity contract
+#  Arm-money token solidity contract
   
 How to create contract:
 1. Open Ethereum Wallet (Mist)
